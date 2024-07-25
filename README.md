@@ -1,4 +1,4 @@
-# Following Ray Tracing In One Weekend#
+# Following Ray Tracing In One Weekend
 
 _good luck_
 
