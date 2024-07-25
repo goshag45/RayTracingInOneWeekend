@@ -3,8 +3,17 @@
 
 #include <iostream>
 
-int main() {
+/* 
+    DEBUG:
+    ctrl+alt+c
+    build\Debug\outDebug.exe > image.ppm
 
+    OPTIMISED:
+    ctrl+alt+v
+    build\Release\inOneWeekend.exe > image.ppm
+*/
+
+int main() {
     // Image
     int image_width = 256;
     int image_height = 256;
