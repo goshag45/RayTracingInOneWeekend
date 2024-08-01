@@ -1,8 +1,6 @@
 #ifndef VEC3_H
 #define VEC3_H
 
-#include "rtweekend.h"
-
 using std::sqrt;
 
 class vec3 {
