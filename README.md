@@ -1,6 +1,6 @@
 # Following Ray Tracing In One Weekend
 
-![alt text](image.ppm)
+![alt text](./final.jpg)
 
 _good luck_
 
