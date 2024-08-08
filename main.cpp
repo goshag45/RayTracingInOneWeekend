@@ -5,6 +5,18 @@
 #include "hittable_list.h"
 #include "sphere.h"
 
+/* 
+    DEBUG:
+    ctrl+alt+c
+    g++ -g -o build\Debug\outDebug.exe main.cpp
+    build\Debug\outDebug.exe > image.ppm
+
+    OPTIMISED:
+    ctrl+alt+v
+    build\Release\inOneWeekend.exe > image.ppm
+*/
+
+
 int main() {
     hittable_list world;
 
